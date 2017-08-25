@@ -49,7 +49,7 @@
     "security"
   ],
   "dependencies": {
-    "broccoli-sri-hash": "^2.1.0"
+    "broccoli-sri-hash": "git+https://github.com/aboveproperty/broccoli-sri-hash.git#master"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config",
